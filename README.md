@@ -40,20 +40,6 @@
 
 ---
 
-## 📝 Internship Task Reference
-
-- **Task**: Create a Simple Responsive Landing Page
-- **Objective**: Build a layout with a header, hero section, and footer.
-- [Original Task PDF](task.pdf)
-
----
-
-## ✅ Submission
-
-Submit your GitHub repo link via this [Google Form](https://forms.gle/8Gm83s53KbyXs3Ne9)
-
----
-
 ## 👨‍💻 Author
 
 **Aman Tiwari**  
